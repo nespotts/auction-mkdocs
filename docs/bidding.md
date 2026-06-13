@@ -4,12 +4,13 @@
 
 > **Your in-person edge:** no buyer's premium for you, but online bidders pay 12%. On contested lots you can bid ~11% past their gavel ceiling and still match their all-in cost — press that advantage on the big-ticket lots (1, 28, 36, 37, 38) where 12% is real money and online bidders feel it most.
 
-To flip profitably, bid below the **low** end of the FB range (leave room for haul, cleanup, listing time, and a margin). Rough "don't pay more than" guidance for resale buyers:
+To flip profitably, bid below the **low** end of the FB range (leave room for haul, cleanup, listing time, and a margin). Every lot is tagged with one of these categories — the **same icon appears beside it in the [summary table](index.md#summary)**, which is sorted in this order (best buys first):
 
-- **High-value, broad-demand (bid 55–70% of FB low):** Lot 1 sawmill, Lots 36/38 tractors, Lot 37 chipper, Lot 28 forklift, Lot 41 trailer, Lots 39/40 containers. These are liquid enough to move; the risk is overpaying at a live auction caught up in bidding.
-- **Premium tools that sell fast (bid 50–65% of FB low):** Lot 26 Snap-On box, Lot 18 Miller welder, Lot 25 Husqvarna saw, Lot 19 Jet helical planer, Lot 2/3 Wood-Mizer sharpening gear.
-- **Niche / thin-market (be cautious — bid low):** Lots 16/17 stake machines, Lot 4 Baker groover, Lot 12 Whirlwind saw, Lot 14 Woodmaster — great upside *if* the right specialty buyer exists, but you may sit on them for months. Don't pay near FB value unless you have a buyer lined up.
-- **Confirm-the-model lots before bidding:** Lot 9 (19" vs 24" bandsaw) and Lot 22 (single vs double-miter OMGA) — the value range doubles depending on the exact unit.
+- 🟢 **Big-ticket, broad demand** — *bid 55–70% of FB low.* Liquid and high-value; expect competition, and the risk is getting caught up in the bidding. **Lots 1, 28, 35, 36, 37, 38, 39, 40, 41** (sawmill, forklift, tractors, chipper, containers, deckover trailer).
+- 🔵 **Premium tools, sell fast** — *bid 50–65% of FB low.* Strong brands with liquid resale. **Lots 2, 3, 18, 19, 25, 26** (Wood-Mizer sharpening gear, Miller welder, Jet helical planer, Husqvarna saw, Snap-On box).
+- 🟠 **Niche / thin-market** — *bid low, be patient.* Great upside only if the right specialty buyer shows up; otherwise you may sit on them for months. **Lots 4, 12, 14, 16, 17** (Baker groover, Whirlwind saw, Woodmaster, stake machines). Don't pay near FB value unless you have a buyer lined up.
+- 🟡 **Confirm the model first** — value can double on the exact unit. **Lot 9** (19" vs 24" bandsaw) and **Lot 22** (single vs double-miter OMGA).
+- ⚪ **Standard / mid-market (unmarked in the table)** — *bid 40–60% of FB low.* General shop tools, welders/compressors, tanks, hoppers, and small farm attachments that sell locally at modest prices. **Lots 5, 6, 7, 8, 10, 11, 13, 15, 20, 21, 23, 24, 27, 29–34, 42, 43, 44.**
 
 ## Methodology & caveats
 

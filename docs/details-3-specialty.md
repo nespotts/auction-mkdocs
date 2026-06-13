@@ -2,7 +2,7 @@
 
 ## Lot 11 — Alkota 210 Diesel/Kerosene Forced-Air Space Heater { #lot-11 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 11 on Proxibid ↗](https://www.proxibid.com/Alkota-210-heater/lotInformation/100975909)
+[↩ Back to summary](index.md#row-11) · [View Lot 11 on Proxibid ↗](https://www.proxibid.com/Alkota-210-heater/lotInformation/100975909)
 
 *Blower + thermostat, stainless combustion chamber, 115V plug, front caster*
 - **FB Marketplace est: $400–$900** (working). Premium Alkota build sits at the top of the used forced-air-heater range.
@@ -12,7 +12,7 @@
 
 ## Lot 12 — Whirlwind WW-212R Up-Cut "Pop-Up" Cutoff Saw { #lot-12 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 12 on Proxibid ↗](https://www.proxibid.com/Whirlwind-WW-212-R-pop-up-saw/lotInformation/100975910)
+[↩ Back to summary](index.md#row-12) · [View Lot 12 on Proxibid ↗](https://www.proxibid.com/Whirlwind-WW-212-R-pop-up-saw/lotInformation/100975910)
 
 *Right-hand · 12' + 8' rolling stands · 230V single-phase*
 - **FB Marketplace est: $2,000–$3,500** (with the 12'+8' rolling stands; ~$2,500–$3,000 likely). Single-phase widens the buyer pool vs. the usual 3-phase 212s — a plus.
@@ -22,7 +22,7 @@
 
 ## Lot 13 — Eagle C7180-1-MS Air Compressor, 7.5hp, 80-gal vertical, 230V 1-ph { #lot-13 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 13 on Proxibid ↗](https://www.proxibid.com/Eagle-C71801-MS-air-compressor/lotInformation/100975911)
+[↩ Back to summary](index.md#row-13) · [View Lot 13 on Proxibid ↗](https://www.proxibid.com/Eagle-C71801-MS-air-compressor/lotInformation/100975911)
 
 - **FB Marketplace est: $700–$1,300** (~$900–$1,100 working). Same class as Lot 5.
 - **Comps:** 80-gal 7.5hp 1-ph compressors used $400–$1,200; this is a near-twin of Lot 5's NAPA.
@@ -31,7 +31,7 @@
 
 ## Lot 14 — Woodmaster W-725 25" Planer/Molder (also gang-rip saw), 7.5hp 230V 1-ph { #lot-14 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 14 on Proxibid ↗](https://www.proxibid.com/Woodmaster-W-725-gang-saw/lotInformation/100975912)
+[↩ Back to summary](index.md#row-14) · [View Lot 14 on Proxibid ↗](https://www.proxibid.com/Woodmaster-W-725-gang-saw/lotInformation/100975912)
 
 - **FB Marketplace est: $1,800–$3,200** — base unit ~$1,800–$2,200; with molding knives + gang-saw arbors / Pro-Pack ~$2,500–$3,200.
 - **Comps:** Dealer-used **$2,964** ([Coast Machinery](https://www.coastmachinery.com/product/wood-master-725-thickness-planer/)); private w/ accessories **$2,000**; w/ Pro-Pack asking **$4,000** ([Festool forum](https://festoolownersgroup.com/threads/planer-molding-drum-sander-saw-woodmaster-tools-model-725-w-pro-pack-4000.21799/)).
@@ -40,7 +40,7 @@
 
 ## Lot 16 — Baker Stake-Point Machine, Model BSM-0 (StakeMaster) { #lot-16 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 16 on Proxibid ↗](https://www.proxibid.com/Baker-stake-point-machine/lotInformation/100975914)
+[↩ Back to summary](index.md#row-16) · [View Lot 16 on Proxibid ↗](https://www.proxibid.com/Baker-stake-point-machine/lotInformation/100975914)
 
 *1 owner · 230V 3-phase with phase converter · automatic cut/point/bundle stake machine*
 - **FB Marketplace est: $8,000–$20,000** — **wide and volatile.** A working StakeMaster realistically brings low-to-mid five figures to a stake/fence/survey producer; if no specialty buyer is bidding it could fall to $2,000–$4,000 (effectively scrap/parts).
@@ -50,7 +50,7 @@
 
 ## Lot 17 — "Pencil Pointe" Stake-Pointing Machine { #lot-17 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 17 on Proxibid ↗](https://www.proxibid.com/Pencil-Pointe-Machine/lotInformation/100975915)
+[↩ Back to summary](index.md#row-17) · [View Lot 17 on Proxibid ↗](https://www.proxibid.com/Pencil-Pointe-Machine/lotInformation/100975915)
 
 *Points up to full 2"×2" · 230V single-phase · pneumatic clamp · Baldor 5hp*
 - **FB Marketplace est: $2,000–$6,000** (~$3,000–$4,500 working). Niche, but a complete, simpler single-station pointer than the big automatics.
@@ -60,7 +60,7 @@
 
 ## Lot 27 — Vertical Panel Saw w/ Milwaukee Power Unit { #lot-27 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 27 on Proxibid ↗](https://www.proxibid.com/Sheet-board-panel-saw/lotInformation/100975926)
+[↩ Back to summary](index.md#row-27) · [View Lot 27 on Proxibid ↗](https://www.proxibid.com/Sheet-board-panel-saw/lotInformation/100975926)
 
 - **FB Marketplace est: $500–$1,200** (~$700–$900 working).
 - **Comps:** Used vertical panel saws typically $400–$1,500 on FB; new branded units anchor the top — Saw Trax Classic **$5,879–$6,299**, panel-saw kits $1,029–$2,599 ([Saw Trax](https://www.sawtrax.com/category/panel-saws/vertical-panel-saw/)).

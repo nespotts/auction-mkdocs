@@ -1,0 +1,12 @@
+/* Compact data tables so the summary/Ring-2 tables fit on phones
+   without horizontal scrolling. Only kicks in on narrow screens. */
+@media screen and (max-width: 500px) {
+  .md-typeset table:not([class]) {
+    font-size: 0.64rem;
+    line-height: 1.35;
+  }
+  .md-typeset table:not([class]) th,
+  .md-typeset table:not([class]) td {
+    padding: 0.3em 0.45em;
+  }
+}

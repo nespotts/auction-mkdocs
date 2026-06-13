@@ -57,6 +57,9 @@ markdown_extensions:
 plugins:
   - search
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Overview & Summary: index.md
   - "Core Sawmill — Lots 1–4": details-1-sawmill.md

@@ -2,7 +2,7 @@
 
 ## Lot 35 — Allis-Chalmers 200 Tractor { #lot-35 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 35 on Proxibid ↗](https://www.proxibid.com/Allis-Chalmers-200/lotInformation/100975935)
+[↩ Back to summary](index.md#row-35) · [View Lot 35 on Proxibid ↗](https://www.proxibid.com/Allis-Chalmers-200/lotInformation/100975935)
 
 *Early 1970s, ~106 PTO hp · new BKT 460/85R34 rear · 3-pt · 2 SCVs · SN #6629*
 - **FB Marketplace est: $7,000–$10,500** (~$8,000–$9,500 for a clean open-station/no-loader; high end given the new rear + dual remotes).
@@ -12,7 +12,7 @@
 
 ## Lot 36 — AGCO-Allis 5670 MFWD + Loader { #lot-36 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 36 on Proxibid ↗](https://www.proxibid.com/AGCO-Allis-5670-MFWD/lotInformation/100975936)
+[↩ Back to summary](index.md#row-36) · [View Lot 36 on Proxibid ↗](https://www.proxibid.com/AGCO-Allis-5670-MFWD/lotInformation/100975936)
 
 *1 owner · 3,933 hrs · SLH air-cooled diesel · AGCO 310 loader w/ bucket + forks + grapple · 16.9-30 · 4 SCVs · ~70hp, late 1990s*
 - **FB Marketplace est: $15,000–$19,500** (realistic ask $17,000–$18,500 — MFWD + full loader package + low 1-owner hours).
@@ -22,7 +22,7 @@
 
 ## Lot 37 — 2005 Vermeer BC1000XL Brush Chipper { #lot-37 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 37 on Proxibid ↗](https://www.proxibid.com/2005-Vermeer-BC1000-XL-chipper/lotInformation/100975937)
+[↩ Back to summary](index.md#row-37) · [View Lot 37 on Proxibid ↗](https://www.proxibid.com/2005-Vermeer-BC1000-XL-chipper/lotInformation/100975937)
 
 *12" capacity · 85hp Cummins diesel · 1,551 hrs · 1 owner*
 - **FB Marketplace est: $14,000–$19,000** (realistic ask $16,000–$18,000).
@@ -32,7 +32,7 @@
 
 ## Lot 38 — AGCO-Allis 9455 MFWD + Loader { #lot-38 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 38 on Proxibid ↗](https://www.proxibid.com/AGCO-Allis-9455-MFWD-with-loader/lotInformation/100975938)
+[↩ Back to summary](index.md#row-38) · [View Lot 38 on Proxibid ↗](https://www.proxibid.com/AGCO-Allis-9455-MFWD-with-loader/lotInformation/100975938)
 
 *16-spd powershift · AGCO FL600 loader w/ bucket + grapple + suitcase weights · ~10,000 hrs · 480/80R42 duals · 3 SCVs · ~155 PTO hp, mid-late 1990s*
 - **FB Marketplace est: $22,000–$30,000** (ask $25,000–$28,000 — loader + grapple + MFWD + duals support the high end despite hours).

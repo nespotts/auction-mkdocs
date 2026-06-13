@@ -2,7 +2,7 @@
 
 ## Lot 1 — 2003 Wood-Mizer LT70 Portable Band Sawmill { #lot-1 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 1 on Proxibid ↗](https://www.proxibid.com/2003-Wood-Mizer-LT70-sawmill/lotInformation/100975907)
+[↩ Back to summary](index.md#row-1) · [View Lot 1 on Proxibid ↗](https://www.proxibid.com/2003-Wood-Mizer-LT70-sawmill/lotInformation/100975907)
 
 *13,190 hrs · Kubota 42 hp diesel (1,000 hrs since overhaul) · full hydraulics, log loaders, turner, clamp, remote operator station · extra blades/parts*
 - **FB Marketplace est: $24,000–$34,000** (most likely lands **~$27,000–$30,000**). Quick sale could dip to ~$22,000; a clean, demonstrated mill to a production buyer ~$36,000+.
@@ -12,7 +12,7 @@
 
 ## Lot 2 — Wood-Mizer BMS250 Blade Sharpener { #lot-2 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 2 on Proxibid ↗](https://www.proxibid.com/Wood-Mizer-BMS250-blade-sharpener/lotInformation/100975918)
+[↩ Back to summary](index.md#row-2) · [View Lot 2 on Proxibid ↗](https://www.proxibid.com/Wood-Mizer-BMS250-blade-sharpener/lotInformation/100975918)
 
 - **FB Marketplace est: $1,400–$2,200** (typically ~$1,600–$1,800 working).
 - **Comps:** Used BMS250 "like new," 240V, listed **$1,500** (KY) — ~45% of new ([Machinio](https://www.machinio.com/model/bms250)). Working sharpening gear in this class resells ~45–60% of new.
@@ -21,7 +21,7 @@
 
 ## Lot 3 — Wood-Mizer "Shop Series" Blade Setter (BMT200 manual dual) { #lot-3 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 3 on Proxibid ↗](https://www.proxibid.com/Shop-Series-Wood-Mizer-blade-setter/lotInformation/100975929)
+[↩ Back to summary](index.md#row-3) · [View Lot 3 on Proxibid ↗](https://www.proxibid.com/Shop-Series-Wood-Mizer-blade-setter/lotInformation/100975929)
 
 - **FB Marketplace est: $1,100–$1,800** (~$1,300–$1,600). If it's actually the **automatic BMT250**, bump to **$1,800–$2,600**.
 - **Comps:** BMT200/250 setter "lightly used" w/ unused electric-upgrade kit on [eBay](https://www.ebay.com/itm/116635003078). Setters resell ~45–60% of new.
@@ -30,7 +30,7 @@
 
 ## Lot 4 — 2012 Baker Banding/Notch Groover { #lot-4 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 4 on Proxibid ↗](https://www.proxibid.com/2012-Baker-Banding-groover/lotInformation/100975940)
+[↩ Back to summary](index.md#row-4) · [View Lot 4 on Proxibid ↗](https://www.proxibid.com/2012-Baker-Banding-groover/lotInformation/100975940)
 
 *Used on 2×3 stringers · 230V single-phase Baldor motor · grooves stringers for steel banding*
 - **FB Marketplace est: $6,000–$11,000** (likely ~$7,500–$9,500 working). Far more valuable than the name suggests.

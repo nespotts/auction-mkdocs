@@ -2,7 +2,7 @@
 
 ## Lot 39 — 40' Conex Shipping Container (blue), buyer to remove { #lot-39 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 39 on Proxibid ↗](https://www.proxibid.com/40-Blue-Conex-box/lotInformation/100975939)
+[↩ Back to summary](index.md#row-39) · [View Lot 39 on Proxibid ↗](https://www.proxibid.com/40-Blue-Conex-box/lotInformation/100975939)
 
 - **FB Marketplace est: $2,200–$3,000** (solid wind/water-tight or cargo-worthy); $1,800–$2,200 if dented/sticky doors.
 - **Comps:** Toledo-area good-condition 40' **$2,700–$3,200**; national 2026 used cargo-worthy **$1,700–$3,500**, WWT $1,450–$3,000 ([usedshippingcontainer.org Toledo](https://www.usedshippingcontainer.org/oh/toledo-used-shipping-containers.php), [containermgt.com](https://www.containermgt.com/how-much-does-a-shipping-container-cost)).
@@ -11,7 +11,7 @@
 
 ## Lot 40 — 40' Conex Shipping Container (brown), buyer to remove { #lot-40 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 40 on Proxibid ↗](https://www.proxibid.com/40-Brown-Conex-box/lotInformation/100975941)
+[↩ Back to summary](index.md#row-40) · [View Lot 40 on Proxibid ↗](https://www.proxibid.com/40-Brown-Conex-box/lotInformation/100975941)
 
 - **FB Marketplace est: $2,200–$3,000** — identical to Lot 39; condition not color drives price.
 - **Comps / New cost:** Same as Lot 39 ($4,500–$6,500 new one-trip).
@@ -19,7 +19,7 @@
 
 ## Lot 41 — 2019 PJ F8 24' Deckover Equipment Trailer { #lot-41 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 41 on Proxibid ↗](https://www.proxibid.com/2019-PJ-20-4-Deck-over-trailer/lotInformation/100975942)
+[↩ Back to summary](index.md#row-41) · [View Lot 41 on Proxibid ↗](https://www.proxibid.com/2019-PJ-20-4-Deck-over-trailer/lotInformation/100975942)
 
 *Model F8242 · 20' + 4' dovetail · 14,000 lb GVW · winch · 5' ramps · 8-lug · electric brakes · new brakes/bearings/drums (summer 2025)*
 - **FB Marketplace est: $6,000–$7,500** (push to $7,000–$7,500 — fresh brake/bearing service + winch + ramps is a sought-after combo).
@@ -29,7 +29,7 @@
 
 ## Lot 42 — 13.5' × 86" Single-Axle Utility Trailer { #lot-42 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 42 on Proxibid ↗](https://www.proxibid.com/2-Wheel-trailer/lotInformation/100975943)
+[↩ Back to summary](index.md#row-42) · [View Lot 42 on Proxibid ↗](https://www.proxibid.com/2-Wheel-trailer/lotInformation/100975943)
 
 - **FB Marketplace est: $700–$1,400** — solid steel frame w/ good tires + clean title $1,000–$1,400; lighter/older/untitled $600–$900.
 - **Comps:** NW/Central Ohio FB single-axle utility trailers commonly $1,200–$2,200 (newer dealer units); new 7×14 single-axle steel **$2,800–$3,800**.
@@ -38,7 +38,7 @@
 
 ## Lot 43 — Nokka Tume 200 3-Point Logging Winch/Skidder (CAT 3, Finnish) { #lot-43 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 43 on Proxibid ↗](https://www.proxibid.com/Nokka-Tume-200-3-point-skidder/lotInformation/100975944)
+[↩ Back to summary](index.md#row-43) · [View Lot 43 on Proxibid ↗](https://www.proxibid.com/Nokka-Tume-200-3-point-skidder/lotInformation/100975944)
 
 - **FB Marketplace est: $2,000–$3,500** (~$2,500–$3,000 working; tracks the mainstream 3-pt winch class, not a brand premium).
 - **Comps:** Farmi JL351P used **$2,250–$2,500** (FB), eBay **$3,999**, new from $4,599; Norse 250 new **$4,195** ([Nova Intl](https://www.shopnovaintl.com/products/norse-250-logging-winch)); used 3-pt winches cluster **$2,250–$3,999**.
@@ -47,7 +47,7 @@
 
 ## Lot 44 — Kewanee 200 10' Six-Way Hydraulic Blade (CAT 3) { #lot-44 }
 
-[↩ Back to summary](index.md#summary) · [View Lot 44 on Proxibid ↗](https://www.proxibid.com/Kewanne-200-10-6-way-blade/lotInformation/100975945)
+[↩ Back to summary](index.md#row-44) · [View Lot 44 on Proxibid ↗](https://www.proxibid.com/Kewanne-200-10-6-way-blade/lotInformation/100975945)
 
 - **FB Marketplace est: $1,500–$2,800** — working hydraulics + serviceable edge $2,000–$2,800; leaking cylinders/worn moldboard $1,200–$1,800.
 - **Comps:** Kewanee 200/209 HD hydraulic 3-pt blade sold via [BigIron](https://www.bigiron.com/Lots/Kewanee200209HeavyDutyHydraulic3PTBlade); a 10' Kewanee hydraulic blade sold at an Ohio farm auction (2020); Kewanee listings range $200–$18,500 ([TractorHouse](https://www.tractorhouse.com/listings/for-sale/kewanee/farm-equipment)).
