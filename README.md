@@ -57,32 +57,20 @@ mkdocs build --strict
 
 ### One-time setup
 
-1. **Set your site URL.** Edit `mkdocs.yml` and change `site_url:` to your real Pages URL:
-   ```yaml
-   site_url: https://<your-github-username>.github.io/<your-repo-name>/
-   ```
-   (For a repo named `AuctionInfo` owned by user `jdoe`, that's `https://jdoe.github.io/AuctionInfo/`.)
+The project is already on GitHub at **https://github.com/nespotts/auction-mkdocs** (branch `master`), and `mkdocs.yml` already has the matching `site_url` (`https://nespotts.github.io/auction-mkdocs/`) and `repo_url`. There's nothing to scaffold — just enable Pages (Option A below).
 
-2. **Put the project on GitHub** (this folder is not yet a git repo):
-   ```powershell
-   git init
-   git add .
-   git commit -m "Auction resale analysis MkDocs site"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-   git push -u origin main
-   ```
+> If you fork or rename the repo, update `site_url` and `repo_url` in `mkdocs.yml` to match.
 
 ### Option A — Automatic deploy via GitHub Actions (recommended)
 
-The included workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) builds and publishes the site on every push to `main`.
+The included workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) builds and publishes the site on every push to `master`.
 
 1. On GitHub, go to **Settings → Pages → Build and deployment**.
 2. Set **Source** to **GitHub Actions**.
-3. Push any change to `main` (or run the workflow manually from the **Actions** tab → *Deploy MkDocs site to GitHub Pages* → **Run workflow**).
-4. After the run finishes (green check), your site is live at the `site_url` above.
+3. Push any change to `master` (or run the workflow manually from the **Actions** tab → *Deploy MkDocs site to GitHub Pages* → **Run workflow**).
+4. After the run finishes (green check), your site is live at **https://nespotts.github.io/auction-mkdocs/**.
 
-That's it — from then on, editing `docs/index.md` and pushing to `main` redeploys automatically.
+That's it — from then on, editing `docs/index.md` and pushing to `master` redeploys automatically.
 
 ### Option B — Manual deploy from your machine
 
