@@ -1,0 +1,66 @@
+site_name: Whalen Sawmill Equipment Auction — Resale Analysis
+site_description: >-
+  Facebook Marketplace resale values, sales comps, new-cost references, and
+  estimated auction hammer prices for the Whalen Realty Sawmill Equipment
+  Auction (formerly Glen Garbers Sawmill) — Wauseon, OH, June 13, 2026.
+
+# IMPORTANT: set this to your real GitHub Pages URL before deploying, e.g.
+#   https://<your-github-username>.github.io/<your-repo-name>/
+# It is used for canonical links, the sitemap, and instant navigation.
+site_url: https://USERNAME.github.io/AuctionInfo/
+
+# Optional — uncomment and set to show an "edit this page" link / repo button:
+# repo_url: https://github.com/USERNAME/AuctionInfo
+# repo_name: USERNAME/AuctionInfo
+
+theme:
+  name: material
+  icon:
+    logo: material/saw-blade
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+plugins:
+  - search
+
+nav:
+  - Auction Resale Analysis: index.md
+
+copyright: >-
+  Estimates only — for personal bidding research. Prices reflect the U.S. market
+  as of June 2026 and are not guaranteed.

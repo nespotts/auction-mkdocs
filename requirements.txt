@@ -1,0 +1,10 @@
+# MkDocs site dependencies
+# Install into the project virtual environment with:
+#   pip install -r requirements.txt
+#
+# Pinned to the versions this site was built/tested with (June 2026).
+# To upgrade later: bump these, run `pip install -r requirements.txt --upgrade`,
+# re-test `mkdocs serve`, then commit the new pins.
+
+mkdocs==1.6.1
+mkdocs-material==9.7.6

@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# MkDocs build output
+site/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
