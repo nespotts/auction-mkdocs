@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.proxibid.com)",
+      "WebFetch(domain:whalenauction.com)",
+      "WebSearch",
+      "WebFetch(domain:www.google.com)",
+      "WebFetch(domain:www.purplewave.com)",
+      "WebFetch(domain:advancedequip.com)",
+      "WebFetch(domain:www.acmetools.com)",
+      "WebFetch(domain:www.pendu.com)",
+      "WebFetch(domain:www.machinio.com)",
+      "WebFetch(domain:surplusrecord.com)",
+      "WebFetch(domain:limaohio.craigslist.org)",
+      "WebFetch(domain:woodmizer.com)",
+      "WebFetch(domain:www.tractordata.com)",
+      "WebFetch(domain:tractorzoom.com)",
+      "WebFetch(domain:www.ebay.com)",
+      "WebFetch(domain:www.tractorsvalue.com)",
+      "WebFetch(domain:brownsequipmentsupply.com)",
+      "WebFetch(domain:www.northerntool.com)",
+      "WebFetch(domain:www.universalmachinerysales.net)",
+      "WebFetch(domain:www.carolinamachinerysales.com)",
+      "WebFetch(domain:www.lumbermenonline.com)"
+    ]
+  }
+}
