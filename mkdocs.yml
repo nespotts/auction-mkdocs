@@ -4,14 +4,13 @@ site_description: >-
   estimated auction hammer prices for the Whalen Realty Sawmill Equipment
   Auction (formerly Glen Garbers Sawmill) — Wauseon, OH, June 13, 2026.
 
-# IMPORTANT: set this to your real GitHub Pages URL before deploying, e.g.
-#   https://<your-github-username>.github.io/<your-repo-name>/
-# It is used for canonical links, the sitemap, and instant navigation.
-site_url: https://USERNAME.github.io/AuctionInfo/
+# GitHub Pages URL (used for canonical links, the sitemap, and instant navigation).
+# If you fork/rename the repo, update this to https://<user>.github.io/<repo>/
+site_url: https://nespotts.github.io/auction-mkdocs/
 
-# Optional — uncomment and set to show an "edit this page" link / repo button:
-# repo_url: https://github.com/USERNAME/AuctionInfo
-# repo_name: USERNAME/AuctionInfo
+# Adds a GitHub repo link in the header.
+repo_url: https://github.com/nespotts/auction-mkdocs
+repo_name: nespotts/auction-mkdocs
 
 theme:
   name: material

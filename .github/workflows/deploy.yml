@@ -1,11 +1,11 @@
 name: Deploy MkDocs site to GitHub Pages
 
-# Builds the MkDocs site and publishes it to GitHub Pages on every push to main.
+# Builds the MkDocs site and publishes it to GitHub Pages on every push to master.
 # In your repo: Settings → Pages → "Build and deployment" → Source = "GitHub Actions".
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch: {}
 
 # Permissions needed for the official GitHub Pages deploy action.
