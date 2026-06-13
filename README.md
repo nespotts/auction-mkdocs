@@ -2,21 +2,31 @@
 
 A single-page [MkDocs](https://www.mkdocs.org/) site (using the [Material](https://squidfunk.github.io/mkdocs-material/) theme) presenting Facebook Marketplace resale values, sales comps, new-cost references, and estimated auction hammer prices for the **Whalen Realty Sawmill Equipment Auction** (formerly Glen Garbers Sawmill) — Wauseon, OH, June 13, 2026.
 
-The content lives in **[`docs/index.md`](docs/index.md)**. Everything else here is the site scaffolding.
+The content lives in the **`docs/`** pages (start at [`docs/index.md`](docs/index.md)). Everything else here is the site scaffolding.
 
 ## Project structure
 
 ```
 AuctionInfo/
 ├─ docs/
-│  └─ index.md                  ← the auction analysis (edit this)
-├─ mkdocs.yml                   ← site config + Material theme
+│  ├─ index.md                  ← overview, terms & master summary table (links to each lot)
+│  ├─ details-1-sawmill.md      ← Lots 1–4  (core sawmill & blade maintenance)
+│  ├─ details-2-woodshop.md     ← Lots 5–9, 15, 18–24, 26  (woodworking shop machines)
+│  ├─ details-3-specialty.md    ← Lots 11–14, 16–17, 27  (specialty wood-products machines)
+│  ├─ details-4-handling.md     ← Lots 10, 25, 28–34  (material handling, tanks, chainsaw)
+│  ├─ details-5-tractors.md     ← Lots 35–38  (tractors, loader & chipper)
+│  ├─ details-6-trailers.md     ← Lots 39–44  (containers, trailers & forestry)
+│  ├─ ring2.md                  ← Ring 2 pole-barn items
+│  └─ bidding.md                ← bidding cheat-sheet + methodology & caveats
+├─ mkdocs.yml                   ← site config, Material theme, page nav
 ├─ requirements.txt             ← Python dependencies (pinned)
-├─ .github/workflows/deploy.yml ← auto-deploy to GitHub Pages on push to main
+├─ .github/workflows/deploy.yml ← auto-deploy to GitHub Pages on push to master
 ├─ .gitignore                   ← ignores .venv/ and site/
 ├─ .venv/                       ← local virtual environment (git-ignored)
 └─ README.md                    ← you are here
 ```
+
+Each lot in the master summary table on `index.md` links to its detail section; every detail section links back to the summary and out to the live Proxibid lot page.
 
 ## Prerequisites
 
@@ -86,11 +96,11 @@ Then set **Settings → Pages → Source** to **Deploy from a branch**, branch *
 
 ## Updating the analysis
 
-1. Edit `docs/index.md`.
+1. Edit the relevant page under `docs/` (the summary table is in `docs/index.md`; per-lot detail is in the `details-*.md` pages).
 2. Preview locally with `mkdocs serve`.
 3. Commit and push:
    ```powershell
-   git add docs/index.md
+   git add docs/
    git commit -m "Update auction figures"
    git push
    ```

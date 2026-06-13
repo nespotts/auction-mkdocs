@@ -58,7 +58,15 @@ plugins:
   - search
 
 nav:
-  - Auction Resale Analysis: index.md
+  - Overview & Summary: index.md
+  - "Core Sawmill — Lots 1–4": details-1-sawmill.md
+  - "Wood Shop — Lots 5–9, 15, 18–24, 26": details-2-woodshop.md
+  - "Specialty Machines — Lots 11–14, 16–17, 27": details-3-specialty.md
+  - "Handling & Tanks — Lots 10, 25, 28–34": details-4-handling.md
+  - "Tractors & Chipper — Lots 35–38": details-5-tractors.md
+  - "Containers, Trailers & Forestry — Lots 39–44": details-6-trailers.md
+  - "Ring 2 — Pole-Barn Items": ring2.md
+  - "Bidding & Methodology": bidding.md
 
 copyright: >-
   Estimates only — for personal bidding research. Prices reflect the U.S. market
