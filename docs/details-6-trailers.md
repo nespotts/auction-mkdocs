@@ -21,7 +21,7 @@
 
 [↩ Back to summary](index.md#row-41) · [View Lot 41 on Proxibid ↗](https://www.proxibid.com/2019-PJ-20-4-Deck-over-trailer/lotInformation/100975942)
 
-*Model F8242 · 20' + 4' dovetail · 14,000 lb GVW · winch · 5' ramps · 8-lug · electric brakes · new brakes/bearings/drums (summer 2025)*
+- **Specs:** Model F8242 · 20' + 4' dovetail · 14,000 lb GVW · winch · 5' ramps · 8-lug · electric brakes · new brakes/bearings/drums (summer 2025)
 - **FB Marketplace est: $6,000–$7,500** (push to $7,000–$7,500 — fresh brake/bearing service + winch + ramps is a sought-after combo).
 - **Comps:** New 2025/26 F8 24'×102" 14k dealer ask **$8,999–$10,673** ([Nationwide](https://nationwidetrailers.com/view-detail-page/71645/pj-trailers-24x102-8-i-beam-deckover-flatbed-trailer-f8/), [Central Trailers](https://www.centraltrailers.com/2026-pj-trailers-f8-24ft-8-i-beam-deckover-14k-gvwr-new-deckover-flat-deck-trailer-east-bethel-mn-55011-i2795277)); used 2022 F8 actively resold ([Happy Trailers](https://www.happytrailers.com/used-2022-pj-trailers-f8-deckover-trailer-102-x26-nrUl.html)).
 - **New cost:** **$8,999–$10,700**.

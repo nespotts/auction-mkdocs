@@ -22,7 +22,7 @@
 
 [↩ Back to summary](index.md#row-28) · [View Lot 28 on Proxibid ↗](https://www.proxibid.com/2004-Hyster-50-Forklift/lotInformation/100975927)
 
-*5,000 lb · LP propane · 6,422 hrs · solid pneumatic · side shift · 1 owner · sold "less tank"*
+- **Specs:** 5,000 lb · LP propane · 6,422 hrs · solid pneumatic · side shift · 1 owner · sold "less tank"
 - **FB Marketplace est: $6,000–$9,000** (running, as-is, private party). "Less tank" trims ~$150–$300 (used 33-lb LP tank is cheap).
 - **Comps:** Exact match 2004 H50XM **$11,995 dealer-reconditioned** (warranty) ([AAA Forklifts](https://www.aaaforklifts.com/products/2004-hyster-h50xm-5000-lb-lpg-forklift-w-sideshift-solid)); H50XM market avg $11,792 (all recon); private/auction units of this vintage trade **$5,000–$9,500**.
 - **New cost:** New 5,000-lb LPG forklift = **$32,000–$45,000+**.

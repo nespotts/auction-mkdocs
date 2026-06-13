@@ -4,7 +4,7 @@
 
 [↩ Back to summary](index.md#row-5) · [View Lot 5 on Proxibid ↗](https://www.proxibid.com/2021-Napa-commercial-air-compressor/lotInformation/100975946)
 
-> The 82378HAT is an **80-gallon** two-stage 175 PSI vertical unit — the "8 gallon" on the lot sheet is a typo for 80.
+- **Note:** The 82378HAT is an **80-gallon** two-stage 175 PSI vertical unit — the "8 gallon" on the lot sheet is a typo for 80.
 - **FB Marketplace est: $700–$1,200** (likely ~$850–$1,000 clean/tested). Single-phase = big buyer pool.
 - **Comps:** Used NAPA 80-gal sold **$400** (older) ([eBay](https://www.ebay.com/itm/226906593374)); replacement pump alone retails **$1,378** ([Master Tool Repair](https://mastertoolrepair.com/pumps-by-brand/napa/82378hat-82378hat208/)), supporting strong residual on a complete working unit.
 - **New cost:** Comparable new 7.5hp/80-gal 230V 1-ph two-stage = **$1,800–$2,600** ([Air Compressors Direct](https://www.aircompressorsdirect.com/tools/7-5-hp-80-gallon-compressors.html)).
@@ -41,7 +41,7 @@
 
 [↩ Back to summary](index.md#row-9) · [View Lot 9 on Proxibid ↗](https://www.proxibid.com/Grizzly-20-bandsaw/lotInformation/100975950)
 
-> No exact Grizzly "20-inch" model — it's either the **G0514 (19", 2–3hp)** or **G0568 (24", 5hp industrial)**. **Confirm throat size + HP at preview** — biggest unknown in the sale.
+- **Note:** No exact Grizzly "20-inch" model — it's either the **G0514 (19", 2–3hp)** or **G0568 (24", 5hp industrial)**. **Confirm throat size + HP at preview** — biggest unknown in the sale.
 - **FB Marketplace est:** 19"-class **$700–$1,200**; 24" industrial **$1,500–$2,600**.
 - **Comps:** G0513/G0514 used $800–$1,000 is a strong deal ([Sawmill Creek](https://sawmillcreek.org/threads/grizzly-g0513-35th-anniversary-edition-used-price.305337/)).
 - **New cost:** G0514X (19", 3hp) = **$2,799**; G0568 (24", 5hp) = **$4,999** ([MaxTool](https://www.maxtool.com/products/grizzly-g0568-220v-24-inch-5-hp-industrial-bandsaw)).
@@ -96,7 +96,7 @@
 
 [↩ Back to summary](index.md#row-22) · [View Lot 22 on Proxibid ↗](https://www.proxibid.com/OMGA-12-miter-saw/lotInformation/100975921)
 
-> OMGA's 12" is the **T 50-300 / T2L** class (the "T 50-350" is the 14"). **ID single- vs double-miter and manual vs pneumatic before pricing** — wide swing.
+- **Note:** OMGA's 12" is the **T 50-300 / T2L** class (the "T 50-350" is the 14"). **ID single- vs double-miter and manual vs pneumatic before pricing** — wide swing.
 - **FB Marketplace est: $700–$1,400** for a manual single-miter; **$1,500–$2,500+** if double-miter/pneumatic/NC.
 - **Comps:** Used 12" "good deal" at **$300** (older); 350mm class ~**$1,000** used ([Machinio](https://www.machinio.com/omga/saws)); higher-end FB unit **$4,000**.
 - **New cost:** New OMGA single-miter T-series ~**$3,500–$6,000**; full line $7,415–$9,981.

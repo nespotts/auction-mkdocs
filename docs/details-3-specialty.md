@@ -4,7 +4,7 @@
 
 [↩ Back to summary](index.md#row-11) · [View Lot 11 on Proxibid ↗](https://www.proxibid.com/Alkota-210-heater/lotInformation/100975909)
 
-*Blower + thermostat, stainless combustion chamber, 115V plug, front caster*
+- **Specs:** Blower + thermostat, stainless combustion chamber, 115V plug, front caster
 - **FB Marketplace est: $400–$900** (working). Premium Alkota build sits at the top of the used forced-air-heater range.
 - **Comps:** Comparable used industrial forced-air diesel/kerosene heaters (150k–210k BTU class — Heatstar, L.B. White, Mr. Heater torpedoes) sell **$200–$700** used on FB; Alkota's stainless-chamber unit commands a premium. Alkota dealers list the 210 as a current product (price by dealer quote) ([Alkota](https://alkota.com/products/industrial-heaters/), [Advanced Equipment](https://advancedequip.com/product/alkota-model-210/)).
 - **New cost:** ~**$2,000–$3,000** (premium brand; comparable ~200k BTU new forced-air diesel heaters $1,200–$2,500).
@@ -14,7 +14,7 @@
 
 [↩ Back to summary](index.md#row-12) · [View Lot 12 on Proxibid ↗](https://www.proxibid.com/Whirlwind-WW-212-R-pop-up-saw/lotInformation/100975910)
 
-*Right-hand · 12' + 8' rolling stands · 230V single-phase*
+- **Specs:** Right-hand · 12' + 8' rolling stands · 230V single-phase
 - **FB Marketplace est: $2,000–$3,500** (with the 12'+8' rolling stands; ~$2,500–$3,000 likely). Single-phase widens the buyer pool vs. the usual 3-phase 212s — a plus.
 - **Comps:** 212L sold ~**$2,500**; used 212 range **$3,500–$4,000**; 212R w/ infeed/outfeed tables **$5,000** ([The Equipment Hub](https://theequipmenthub.com/product/whirlwind-212r-18-cut-off-upcut-saw-w-infeed-outfeed-tables/)); refurbished 212L/R via [John G Weber](https://www.johngweber.com/listings/745239-refurbished-whirlwind-212l-or-212r-refurbished-upcut-saw-4-x-10-stock-capacity-18-blade-10hp-3ph-motor).
 - **New cost:** New Whirlwind up-cut saws run ~**$8,000–$12,000** (industrial; pricing by quote).
@@ -42,7 +42,7 @@
 
 [↩ Back to summary](index.md#row-16) · [View Lot 16 on Proxibid ↗](https://www.proxibid.com/Baker-stake-point-machine/lotInformation/100975914)
 
-*1 owner · 230V 3-phase with phase converter · automatic cut/point/bundle stake machine*
+- **Specs:** 1 owner · 230V 3-phase with phase converter · automatic cut/point/bundle stake machine
 - **FB Marketplace est: $8,000–$20,000** — **wide and volatile.** A working StakeMaster realistically brings low-to-mid five figures to a stake/fence/survey producer; if no specialty buyer is bidding it could fall to $2,000–$4,000 (effectively scrap/parts).
 - **Comps:** Used **1997 Baker BSM-0 Stake Pointer asking $29,215** ([Machinio stake-pointer category](https://www.machinio.com/cat/stake-pointer)); new Baker StakeMaster sold through [Baker Products](https://www.baker-online.com/Stake_Master) / [Ex-Factory](https://www.exfactory.com/DetailNew/PE-010389/baker-stakemaster) / [Wurth Baer (Hermance)](https://www.hermance.com/Industrial/New-Machines/Baker-Stake-Master).
 - **New cost:** ~**$40,000–$60,000+** (current automatic StakeMaster; processes up to 24,000 stakes/shift).
@@ -52,7 +52,7 @@
 
 [↩ Back to summary](index.md#row-17) · [View Lot 17 on Proxibid ↗](https://www.proxibid.com/Pencil-Pointe-Machine/lotInformation/100975915)
 
-*Points up to full 2"×2" · 230V single-phase · pneumatic clamp · Baldor 5hp*
+- **Specs:** Points up to full 2"×2" · 230V single-phase · pneumatic clamp · Baldor 5hp
 - **FB Marketplace est: $2,000–$6,000** (~$3,000–$4,500 working). Niche, but a complete, simpler single-station pointer than the big automatics.
 - **Comps:** High-volume automatic pencil pointers anchor the top: Pendu 3800 used **~$30,800**, replacement cost ~$45,000 ([Surplus Record](https://surplusrecord.com/listing/pendu-3800-pencil-point-stake-pointer-2007-707009/)); budget end is Hud-Son's small stake pointer. This single-station 5hp pneumatic unit sits well below the Pendu but above a hobby pointer.
 - **New cost:** ~**$8,000–$15,000** for a comparable new single-station pointer; high-speed Pendu-class $30,000–$45,000.
